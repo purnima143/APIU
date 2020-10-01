@@ -1,6 +1,7 @@
 body{
     margin:0;
     padding: 0;
+    overflow-x: hidden;
 }
 /*navbar*/
 #nav-bar {
@@ -458,3 +459,58 @@ blockquote::after
     font-size: 20px;
     padding:20px;
 }
+
+/* blog page */
+
+#page-header {
+    height: 200px;
+    background: url('../img/image1.jpg');
+    background-position: 0 -360px;
+    background-attachment: fixed;
+    color: #fff;
+    border-bottom: 1px #eee solid;
+    padding-top: 50px;
+  }
+  
+  .about-img {
+    margin-top: -50px;
+  }
+  
+  #faq .card {
+    border: #444;
+  }
+  
+  #faq a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  #faq .card-body,
+  #faq .card-header {
+    background: #333;
+  }
+  
+  #main-footer {
+    background: #000;
+    color: #fff;
+  }
+  
+  .navbar .navbar-brand
+  {
+    font-size:18px ;
+  }
+  
+  .navbar .nav-link {
+    font-size: 17px;
+    text-transform: uppercase;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+  
+  .navbar .nav-item.active {
+    border-left: #444 3px solid;
+  }
+  
+  .carousel-item {
+    height: 550px;
+  }
