@@ -1,3 +1,4 @@
+![HF2020 Events 2160x1080 Centered](https://user-images.githubusercontent.com/57852378/94808438-c7055200-040e-11eb-9b13-8038f7e10ce3.png)
 
 Welcome all,If you are a techie 👨‍💻👩‍💻, if you want to get started with open source contribution 💻, you have landed in just the right place! ⬇
 The aim of this program is to help the participants explore the Open Source world and take their first step towards programming and contributing.
