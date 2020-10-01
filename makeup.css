@@ -361,14 +361,47 @@ color:#007bff!important;
 
 /*---footerooo---*/
 #footer {
-    background:#333;
+    background:#133553;
     color:#fff;
     padding: 12px;
 }
 
-.fa-heart-o {
-    margin:3px;
-    color: red;
+.footer-logo {
+    height: 84px !important;
+    object-fit: cover;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-content p {
+    color: #007bff;
+}
+
+.footer-content a {
+    color: white;
+}
+
+.footer-content a:hover {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.footer-social-btn a {
+    font-size: 19px;
+    color: #007bff !important;
+    padding-left: 7px;
+}
+
+.footer-border {
+    border: 1px solid white;
+    width: 100%;
+}
+
+.footer-copyright {
+    font-size: 12px;
 }
 
 /*testimonial*/
