@@ -7,7 +7,10 @@ body{
 #nav-bar {
     position: sticky;
     top:0;
-    z-index: 10;
+    z-index: 17;
+    /*width: 1305px;*/
+    height: 107px
+    background-color:blue;
 }
 
 .navbar-brand img 
@@ -31,7 +34,7 @@ float:right;
 }
 
 .navbar {
-    background-color: rgba(245, 249, 252, 0.69);
+    background-color: rgba(205, 209, 213, 1);
     
 }
 
@@ -162,7 +165,7 @@ color:white;
 
 #about
 {
-    padding-top:60px;
+    padding-top:100px;
 }
 
 
@@ -218,6 +221,7 @@ color:white;
     background: #007bff;
     cursor:pointer;
     transition: 0.7s;
+    border-radius: 70px;
 }
 /*---team---*/
 #team {
@@ -447,17 +451,20 @@ blockquote::after
 }
  .container .row 
 {
-    padding-top: 10px;
-    padding-bottom: 10px;
+       padding-top: 4px;
+    padding-bottom: 63px;
 }
 /*bar---*/
 
-.bar{text-align: justify;
+.bar{
+    text-align: justify;
     background-image:linear-gradient(to right, #1b4a72, #65b0f0);
     color: white;
     font-family: sans-serif;
     font-size: 20px;
-    padding:20px;
+    height: 140px;
+    padding: 40px;
+    padding-left: 235px;
 }
 
 /* blog page */
