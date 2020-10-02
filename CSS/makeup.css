@@ -173,7 +173,7 @@ color:white;
 
 #services
 {
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(cup.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(../Images/cup.jpg);
     background-size: cover;
     background-position: center;
     color:#efefef !important;
@@ -319,7 +319,7 @@ color:#007bff!important;
 /*promo*/
 #promo
 {
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.8)),url(team.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.8)),url(../Images/team.jpg);
     background-size: cover;
     background-position: center;
     color:#fff;
