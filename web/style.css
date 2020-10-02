@@ -1,55 +1,47 @@
-*
-{
-    padding:0;
-    margin:0;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
- h1{
-color:rgb(60, 5, 5);
-    font-size: 100px;
-     text-align: center;
-
+h1 {
+  color: rgb(60, 5, 5);
+  font-size: 100px;
+  text-align: center;
 }
 
 #head {
-    background-image: linear-gradient(to top left,#450b45,#f54b68);
-    background-size: cover;
-    height:37vh;
-    background-position: bottom;
+  background-image: linear-gradient(to top left, #450b45, #f54b68);
+  background-size: cover;
+  height: 37vh;
+  background-position: bottom;
 }
-#head h2{
-padding-top: 80px;
-    text-align: center;
-    font-size: 50px;
-    color:white;
-    font-family: sans-serif;
+#head h2 {
+  padding-top: 80px;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  font-family: sans-serif;
 }
-h4{
-    color: white;
-    text-align: center;
+h4 {
+  color: white;
+  text-align: center;
 }
-#content1{
-    padding: 30px;
-    background-image: url("cloud.jpg");
-  
+#content1 {
+  padding: 30px;
+  background-image: url("cloud.jpg");
 }
-
-
 
 #content2 {
-    
-    padding: 35px;
-    
+  padding: 35px;
 }
 
-
-#video  iframe{
-    margin-left:30%;
- 
+#video iframe {
+  margin-left: 30%;
 }
-#video{
-    background-color: #363434;}
-.content4
-{
-    background-color: aquamarine;
+#video {
+  background-color: #363434;
+}
+.content4 {
+  background-color: aquamarine;
 }
